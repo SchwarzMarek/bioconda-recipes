@@ -16,7 +16,7 @@ requirements:
     - {{ compiler('c') }}
   host:
     - perl
-    - python >= 3.5
+    - python >=3.5
 
 test:
   commands:
